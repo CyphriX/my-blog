@@ -1,6 +1,11 @@
 vendor/
-/node_modules
-Homestead.yaml
-Homestead.json
 .env
 .idea/
+bootstrap/cache/
+storage/
+_*.php
+.*.php
+
+
+
+
