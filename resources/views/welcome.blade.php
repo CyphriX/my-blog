@@ -7,8 +7,8 @@
 @section('content')
     <div class="container">
         <div class="row">
-            <div class="col-md-3"></div>
-            <div class="col-md-6">
+            <!-- left column -->
+            <div class="col-md-6 left-main-column">
                 <h2>Adventures in PHP</h2>
                 <pre>
                     <code class="language-php">
@@ -25,6 +25,10 @@
                     </code>
                 </pre>
                 <div class="pull-right">The story of one man's journey into the unknown...</div>
+            </div>
+
+            <!-- right column -->
+            <div class="col-md-6 right-main-column">
                 <div>
                     <br><br>
                     <p>What happens when a man quits his job to pursue his dream of becoming
@@ -62,7 +66,6 @@
 
                 </div>
             </div>
-            <div class="col-md-3"></div>
         </div>
     </div>
 @endsection

@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5, h6 {
-    font-family: Oswald;
+    font-family: Oswald, Helvetica, Arial, sans-serif;
 }
 body {
     background: #e1e1e1;
@@ -7,7 +7,7 @@ body {
 input, select {
     background-color: #222222 !important;
     color: #E1E1E1 !important;
-    border-radius: 0px !important;
+    border-radius: 0 !important;
 }
 input:focus, select:focus {
     border: solid black 1px !important;
@@ -15,5 +15,25 @@ input:focus, select:focus {
 }
 .navbar {
     min-height:28px !important;
-    border-radius: 0px !important;
+    border-radius: 0 !important;
 }
+
+.left-main-column {
+    border-right: solid black 1px;
+    padding-right: 30px;
+}
+
+.right-main-column {
+    padding-left: 30px;
+}
+
+@media (max-width: 995px) {
+    .left-main-column {
+        padding-right: 10px;
+        border-right: 0;
+    }
+    .right-main-column {
+        padding-left: 10px;
+    }
+}
+
