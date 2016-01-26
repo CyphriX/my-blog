@@ -11,3 +11,7 @@
 #profile-desc h3 {
     margin-top: 0px;
 }
+
+.alert-warning {
+    padding: 2px;
+}

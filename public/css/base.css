@@ -37,3 +37,6 @@ input:focus, select:focus {
     }
 }
 
+.clearboth {
+    clear: both;
+}
