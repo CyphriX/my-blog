@@ -148,13 +148,7 @@ return [
         /*
          * PHPStorm IDE Integration
          */
-
         Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
-        /*
-         * Graham Campbell's Laravel Markdown
-         */
-        'GrahamCampbell\Markdown\MarkdownServiceProvider'
-
     ],
 
     /*

@@ -8,6 +8,7 @@ use Illuminate\Http\Request;
 
 use BlogIt\Http\Requests;
 use BlogIt\Http\Controllers\Controller;
+use Illuminate\Mail\Message;
 
 /**
  * Administrative methods for working with users
@@ -70,6 +71,11 @@ class UserController extends Controller
                 "user_id"       => $user->id,
                 "role_name"     => $input['role']
             ]);
+            \Mail::send('test', [], function(Message $message) {
+                $message->from('jason@adventuresinphp.com', 'Jason Swint');
+                $message->to('cyphrix.2015@gmail.com', 'Jason Swint');
+                $message->subject('New User Created');
+            });
         }
 
     }
