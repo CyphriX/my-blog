@@ -3,3 +3,9 @@ vendor/
 .idea/
 bootstrap/cache/
 storage/
+_*.php
+.*.php
+
+
+
+
