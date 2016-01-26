@@ -1,0 +1,13 @@
+.alert {
+    border-radius: 0px !important;
+}
+#jason {
+    border: solid black 2px;
+}
+#profile-desc {
+    margin-bottom: 100px;
+    margin-top: 10px;
+}
+#profile-desc h3 {
+    margin-top: 0px;
+}

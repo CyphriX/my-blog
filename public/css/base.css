@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: Oswald;
+}
+body {
+    background: #e1e1e1;
+}
+input, select {
+    background-color: #222222 !important;
+    color: #E1E1E1 !important;
+    border-radius: 0px !important;
+}
+input:focus, select:focus {
+    border: solid black 1px !important;
+    box-shadow: 1px 1px 3px black !important;
+}
+.navbar {
+    min-height:28px !important;
+    border-radius: 0px !important;
+}
