@@ -2,6 +2,6 @@
 
 @section('content')
     <div class="container">
-        Thanks for signing up! I'll send you an e-mail once the site goes live.
+        <p class="lead">Thanks for signing up! I'll send you an e-mail once the site goes live.</p>
     </div>
 @endsection
