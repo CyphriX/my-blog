@@ -17,6 +17,7 @@ Route::post('/', function() {
         \BlogIt\MailingList::create([
             'email' => \Input::get('email')
         ]);
+        return \View::make('mail_list_success');
     } else {
         $messages = $validator->errors();
         return \View::make('welcome')->with('messages', $messages);
