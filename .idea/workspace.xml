@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93247b4d-3d70-482f-af33-7f072738e132" name="Default" comment="">
+    <list default="true" id="93247b4d-3d70-482f-af33-7f072738e132" name="Default" comment="html5 declaration">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/base.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/base.blade.php" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07717042">
+            <state vertical-scroll-proportion="-36.0">
               <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
               <folding />
             </state>
@@ -85,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/base.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.37037">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.3324397">
+              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -194,8 +194,8 @@
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/mail_list_success.blade.php" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/base.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/base.blade.php" />
       </list>
     </option>
   </component>
@@ -361,7 +361,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="welcome&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;base&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/layouts/base.blade.php&#10;.env&#9;FILE&#9;file:///home/cyphrix/Code/blog/.env&#10;c_m&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_26_155259_create_mailing_list_table.php&#10;ML&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/MailingList.php&#10;UC&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;css&#9;FILE&#9;file:///home/cyphrix/Code/blog/public/css/base.css&#10;welcome.blad&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;add&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/add.blade.php&#10;route&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;Controller&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Role.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Role.php&#10;users&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;role&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053721_create_roles_table.php&#10;index&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/index.blade.php&#10;user&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;User.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/User.php&#10;contro&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Facade&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="base&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/layouts/base.blade.php&#10;welcome&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;.env&#9;FILE&#9;file:///home/cyphrix/Code/blog/.env&#10;c_m&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_26_155259_create_mailing_list_table.php&#10;ML&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/MailingList.php&#10;UC&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;css&#9;FILE&#9;file:///home/cyphrix/Code/blog/public/css/base.css&#10;welcome.blad&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;add&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/add.blade.php&#10;route&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;Controller&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Role.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Role.php&#10;users&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;role&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053721_create_roles_table.php&#10;index&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/index.blade.php&#10;user&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;User.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/User.php&#10;contro&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Facade&#9;null&#9;null" />
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
@@ -580,34 +580,40 @@
       <option name="project" value="LOCAL" />
       <updated>1453828262917</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="minor formatting change">
+      <created>1453828795374</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1453828795374</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-4" width="1296" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19453125" sideWeight="0.49408284" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51035506" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19453125" sideWeight="0.49408284" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19453125" sideWeight="0.50591713" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.74852073" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -647,7 +653,9 @@
     <MESSAGE value="layout changes" />
     <MESSAGE value="add mailing list functionality" />
     <MESSAGE value="add additional mailing list functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="add additional mailing list functionality" />
+    <MESSAGE value="minor formatting change" />
+    <MESSAGE value="html5 declaration" />
+    <option name="LAST_COMMIT_MESSAGE" value="html5 declaration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1021,18 +1029,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/base.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.37037">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="20" />
+        <state vertical-scroll-proportion="-36.0">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/base.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07717042">
-          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.3324397">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding />
         </state>
       </provider>
