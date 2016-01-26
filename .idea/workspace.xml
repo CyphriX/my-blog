@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.111111">
-              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.07717042">
+              <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/base.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45016077">
+            <state vertical-scroll-proportion="-10.37037">
               <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="20" />
               <folding />
             </state>
@@ -193,9 +193,9 @@
         <option value="$PROJECT_DIR$/database/migrations/2016_01_26_155259_create_mailing_list_table.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/mail_list_success.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/layouts/base.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
       </list>
     </option>
   </component>
@@ -361,7 +361,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="base&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/layouts/base.blade.php&#10;.env&#9;FILE&#9;file:///home/cyphrix/Code/blog/.env&#10;welcome&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;c_m&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_26_155259_create_mailing_list_table.php&#10;ML&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/MailingList.php&#10;UC&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;css&#9;FILE&#9;file:///home/cyphrix/Code/blog/public/css/base.css&#10;welcome.blad&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;add&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/add.blade.php&#10;route&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;Controller&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Role.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Role.php&#10;users&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;role&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053721_create_roles_table.php&#10;index&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/index.blade.php&#10;user&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;User.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/User.php&#10;contro&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Facade&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="welcome&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;base&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/layouts/base.blade.php&#10;.env&#9;FILE&#9;file:///home/cyphrix/Code/blog/.env&#10;c_m&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_26_155259_create_mailing_list_table.php&#10;ML&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/MailingList.php&#10;UC&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;css&#9;FILE&#9;file:///home/cyphrix/Code/blog/public/css/base.css&#10;welcome.blad&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;add&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/add.blade.php&#10;route&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;Controller&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Role.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Role.php&#10;users&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;role&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053721_create_roles_table.php&#10;index&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/index.blade.php&#10;user&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;User.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/User.php&#10;contro&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Facade&#9;null&#9;null" />
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
@@ -574,7 +574,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453826138314</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add additional mailing list functionality">
+      <created>1453828262917</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1453828262917</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1007,14 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.111111">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1025,8 +1023,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/base.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45016077">
+        <state vertical-scroll-proportion="-10.37037">
           <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07717042">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
           <folding />
         </state>
       </provider>

@@ -52,7 +52,7 @@
             <div class="col-md-6 right-main-column">
                 <div>
                     <br><br>
-                    <p>What happens when a man quits his job to pursue his dream of becoming
+                    <p class="lead">What happens when a man quits his job to pursue his dream of becoming
                     a web application developer, without any formal training in software development?
                     That's precisely what I intend to find out. What's in store for me and the family next?
                     Who knows, but it's bound to be an exciting adventure!</p>
