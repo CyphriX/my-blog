@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93247b4d-3d70-482f-af33-7f072738e132" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/mail_list_success.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +28,9 @@
       <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.3333335">
-              <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
-              <folding>
-                <element signature="e#2107#4365#0#HTML" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="-7.111111">
+              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,16 +40,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-18.0">
               <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/base.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6666667">
-              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -78,21 +65,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mail_list_success.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail_list_success.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/mail_list_success.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.115755625">
+            <state vertical-scroll-proportion="-2.6666667">
               <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Post.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Post.php">
+      <file leaf-file-name="base.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/base.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.259259">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.45016077">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -189,16 +186,16 @@
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.md.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.md" />
-        <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/base.blade.php" />
         <option value="$PROJECT_DIR$/public/css/base.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/public/css/welcome.css" />
         <option value="$PROJECT_DIR$/app/MailingList.php" />
         <option value="$PROJECT_DIR$/database/migrations/2016_01_26_155259_create_mailing_list_table.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/mail_list_success.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/base.blade.php" />
       </list>
     </option>
   </component>
@@ -364,7 +361,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="c_m&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_26_155259_create_mailing_list_table.php&#10;ML&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/MailingList.php&#10;welcome&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;UC&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;css&#9;FILE&#9;file:///home/cyphrix/Code/blog/public/css/base.css&#10;welcome.blad&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;add&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/add.blade.php&#10;route&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;Controller&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;.env&#9;FILE&#9;file:///home/cyphrix/Code/blog/.env&#10;base&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/layouts/base.blade.php&#10;Role.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Role.php&#10;users&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;role&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053721_create_roles_table.php&#10;index&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/index.blade.php&#10;user&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;User.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/User.php&#10;contro&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Facade&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="base&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/layouts/base.blade.php&#10;.env&#9;FILE&#9;file:///home/cyphrix/Code/blog/.env&#10;welcome&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;c_m&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_26_155259_create_mailing_list_table.php&#10;ML&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/MailingList.php&#10;UC&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;css&#9;FILE&#9;file:///home/cyphrix/Code/blog/public/css/base.css&#10;welcome.blad&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/welcome.blade.php&#10;add&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/add.blade.php&#10;route&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;routes.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/routes.php&#10;Controller&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Role.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Role.php&#10;users&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;role&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053721_create_roles_table.php&#10;index&#9;FILE&#9;file:///home/cyphrix/Code/blog/resources/views/admin/users/index.blade.php&#10;user&#9;FILE&#9;file:///home/cyphrix/Code/blog/database/migrations/2016_01_23_053457_create_users_table.php&#10;User.php&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/User.php&#10;contro&#9;FILE&#9;file:///home/cyphrix/Code/blog/app/Http/Controllers/Admin/UserController.php&#10;Facade&#9;null&#9;null" />
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
@@ -571,7 +568,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453824991628</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add additional mailing list functionality">
+      <created>1453826138314</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1453826138314</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -637,7 +640,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="layout changes" />
     <MESSAGE value="add mailing list functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mailing list functionality" />
+    <MESSAGE value="add additional mailing list functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="add additional mailing list functionality" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -897,14 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-103.333336">
@@ -947,14 +943,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/base.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6666667">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Post.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.259259">
@@ -987,16 +975,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.3333335">
-          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
-          <folding>
-            <element signature="e#2107#4365#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/MailingList.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.3333335">
@@ -1023,8 +1001,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/mail_list_success.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.115755625">
+        <state vertical-scroll-proportion="-2.6666667">
           <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.111111">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/base.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45016077">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="20" />
           <folding />
         </state>
       </provider>

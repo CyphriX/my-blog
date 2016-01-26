@@ -56,8 +56,8 @@
                     a web application developer, without any formal training in software development?
                     That's precisely what I intend to find out. What's in store for me and the family next?
                     Who knows, but it's bound to be an exciting adventure!</p>
-                    <p>Bookmark this site and check back after the launch date above for updates on the
-                        job search, PHP tutorials, and more.</p>
+                    <p>Bookmark this site (or better yet, join the mailing list) and check back after the launch date
+                        for updates on the job search, PHP tutorials, and more.</p>
                 </div>
                 <hr>
                 <div class="row">
