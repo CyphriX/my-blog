@@ -21,7 +21,7 @@
         }
     }
 
-    TheAdventure::isComing(1455408000);
+    TheAdventure::isComing(1456876800);
                     </code>
                 </pre>
                 <div class="pull-right">The story of one man's journey into the unknown...</div>
@@ -56,6 +56,11 @@
                     a web application developer, without any formal training in software development?
                     That's precisely what I intend to find out. What's in store for me and the family next?
                     Who knows, but it's bound to be an exciting adventure!</p>
+                    <div class="alert alert-warning" style="padding:20px">
+                        <strong>UPDATE: </strong>Due to life happening in a manner not conducive to progress on
+                        personal projects (as it so often does), I've had to push back the launch date by a
+                        couple of weeks. I'll keep you updated on progress.
+                    </div>
                     <p>Bookmark this site (or better yet, join the mailing list) and check back after the launch date
                         for updates on the job search, PHP tutorials, and more.</p>
                 </div>
