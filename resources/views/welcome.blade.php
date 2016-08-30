@@ -24,7 +24,7 @@
     TheAdventure::isComing(1475798400);
                     </code>
                 </pre>
-                <div class="pull-right">The story of one man's journey into the unknown...</div>
+                <div class="pull-right">More class than all the rest...</div>
                 <div class="clearboth">
                     <br>
                     <h4>Join the Mailing List</h4>
