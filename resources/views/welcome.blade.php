@@ -8,7 +8,7 @@
     <div class="container">
         <div class="row">
             <!-- left column -->
-            <div class="col-md-6 left-main-column">
+            <div class="col-md-7 left-main-column">
                 <h2>Adventures in PHP</h2>
                 <pre>
                     <code class="language-php">
@@ -21,7 +21,7 @@
         }
     }
 
-    TheAdventure::isComing(1456876800);
+    TheAdventure::isComing(1475798400);
                     </code>
                 </pre>
                 <div class="pull-right">The story of one man's journey into the unknown...</div>
@@ -49,53 +49,24 @@
             </div>
 
             <!-- right column -->
-            <div class="col-md-6 right-main-column">
+            <div class="col-md-5 right-main-column">
                 <div>
-                    <br><br>
-                    <p class="lead">What happens when a man quits his job to pursue his dream of becoming
-                    a web application developer, without any formal training in software development?
-                    That's precisely what I intend to find out. What's in store for me and the family next?
-                    Who knows, but it's bound to be an exciting adventure!</p>
-                    <div class="alert alert-warning" style="padding:20px">
-                        <strong>UPDATE: </strong>Due to life happening in a manner not conducive to progress on
-                        personal projects (as it so often does), I've had to push back the launch date by a
-                        couple of weeks. I'll keep you updated on progress.
-                    </div>
-                    <p>Bookmark this site (or better yet, join the mailing list) and check back after the launch date
-                        for updates on the job search, PHP tutorials, and more.</p>
-                </div>
-                <hr>
-                <div class="row">
-                    <div id="profile" class="col-md-5">
-                        <img id='jason' src="{{ asset('img/jason.jpg') }}" class="img-responsive">
-                    </div>
+                    <br>
+                    <p class="lead">Are you interested in tutorials on PHP, Composer, Laravel, and more?</p>
+                    <img class="img-responsive" src="{{ asset('img/php-logo.png') }}" alt="PHP Logo">
+                    <br>
+                    <p>Adventures in PHP aims to be a valuable resource for those who are teaching themselves web development, with a primary focus on PHP. On occasion we may venture into some JavaScript and other web technologies that help us tie everything together.</p>
+                    <p>I currently have multiple tutorials in the works, and am looking forward to the launch date. If you want to stay in the loop, join the mailing list so that I can keep you up to date!</p>
+                    <h3>THE ADVENTURE IS COMING...</h3>
 
-                    <div class="col-md-7">
-                        <div id="profile-desc" class="small" style="text-align: left">
-                            <h3 class="jason">Jason Swint</h3>
-                            <p class="caption">
-                                Jason currently serves as the Director of Management Information Services
-                                for a mid-sized healthcare services provider in North Carolina.
-                            </p>
-                            <p>
-                                He is a skilled and dedicated professional who is currently seeking to pursue his dream
-                                job in software development. While having no formal education in computer science, he
-                                constantly seeks to better himself with self-education, via the many resources available
-                                on the Internet, as well as those in printed books.
-                            </p>
-                            <p>
-                                For more info: &nbsp;&nbsp;&nbsp;
-                                <a href="https://www.linkedin.com/in/jason-swint-b7165294"><img src="{{  asset('img/linkedin.png') }}"></a>
-                            </p>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
+        <br>
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- Leaderboard_1 -->
         <ins class="adsbygoogle"
-             style="display:inline-block;width:728px;height:90px"
+             style="display:inline-block;width:500px;height:90px"
              data-ad-client="ca-pub-4479303650241576"
              data-ad-slot="5303990445"></ins>
         <script>
