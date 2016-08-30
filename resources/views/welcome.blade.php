@@ -41,7 +41,7 @@
                                 @endif
                             </div>
                             <div class="col-md-3">
-                                <button type="submit" class="btn btn-primary">Join the Party</button>
+                                <button type="submit" class="btn btn-primary">Join the Fun!</button>
                             </div>
                         </div>
                     </form>
